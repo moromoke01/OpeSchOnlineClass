@@ -1,0 +1,31 @@
+#schname{
+		font-size: 40px;
+		color:white;
+		font-family:arial black;
+		text-shadow:0 0 5px black;
+
+	}
+	#platform{
+		font-size: 37px;
+		color: white;
+		float: right;
+		font-family:Lucida Fax;
+		margin-bottom: 0px;
+		text-shadow:0 0 8px white;
+        letter-spacing: 2px;
+	}
+	p{
+		font-size:20px;
+		font-family: Times New Roman;
+	}
+	.panel{
+		font-family:Rockwell;
+		color:#990000;
+		font-size: 18px;
+	}
+	.list-group-item:visited{
+		color: #990000;
+	}
+	a:visited{
+		color:green;
+	}
